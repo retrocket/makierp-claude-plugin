@@ -59,4 +59,4 @@ The plugin adds one remote MCP server, `https://mcp.makierp.com/`, operated by M
 
 ## License
 
-Copyright © Retrocket. All rights reserved. See [LICENSE](LICENSE).
+Copyright © Retrocket Software Ltd. All rights reserved. See [LICENSE](LICENSE).

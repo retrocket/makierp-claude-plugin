@@ -2,7 +2,7 @@
   "name": "makierp",
   "description": "MakiERP plugin for Claude.",
   "owner": {
-    "name": "Retrocket",
+    "name": "Retrocket Software Ltd.",
     "email": "info@makierp.com"
   },
   "plugins": [

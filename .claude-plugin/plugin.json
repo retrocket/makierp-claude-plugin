@@ -1,10 +1,10 @@
 {
   "name": "makierp",
   "displayName": "MakiERP",
-  "version": "0.12.0",
+  "version": "1.0.0",
   "description": "Work with your MakiERP company data from Claude: look up balances, stock and sales, build reports and dashboards, and prepare bank, cheque, order and warehouse entries for your approval.",
   "author": {
-    "name": "Retrocket",
+    "name": "Retrocket Software Ltd.",
     "email": "info@makierp.com",
     "url": "https://makierp.com/"
   },
