@@ -22,7 +22,7 @@
     "turkish",
     "makierp"
   ],
-  "icon": "./assets/icon.svg",
+  "icon": "./assets/icon.png",
   "documentationUrl": "https://github.com/retrocket/makierp-claude-plugin#readme",
   "supportUrl": "https://makierp.com/iletisim",
   "privacyPolicyUrl": "https://makierp.com/gizlilik-politikasi",
