@@ -1,0 +1,15 @@
+{
+  "name": "makierp",
+  "description": "MakiERP plugin for Claude.",
+  "owner": {
+    "name": "Retrocket",
+    "email": "info@makierp.com"
+  },
+  "plugins": [
+    {
+      "name": "makierp",
+      "source": "./",
+      "description": "Work with your MakiERP company data from Claude."
+    }
+  ]
+}

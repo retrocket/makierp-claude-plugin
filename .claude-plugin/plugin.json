@@ -1,0 +1,30 @@
+{
+  "name": "makierp",
+  "displayName": "MakiERP",
+  "version": "0.12.0",
+  "description": "Work with your MakiERP company data from Claude: look up balances, stock and sales, build reports and dashboards, and prepare bank, cheque, order and warehouse entries for your approval.",
+  "author": {
+    "name": "Retrocket",
+    "email": "info@makierp.com",
+    "url": "https://makierp.com/"
+  },
+  "homepage": "https://makierp.com/",
+  "repository": "https://github.com/retrocket/makierp-claude-plugin",
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "erp",
+    "accounting",
+    "inventory",
+    "finance",
+    "analytics",
+    "dashboards",
+    "reporting",
+    "turkish",
+    "makierp"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://github.com/retrocket/makierp-claude-plugin#readme",
+  "supportUrl": "https://makierp.com/iletisim",
+  "privacyPolicyUrl": "https://makierp.com/gizlilik-politikasi",
+  "termsOfServiceUrl": "https://makierp.com/kullanim-kosullari"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "makierp": {
+      "type": "http",
+      "url": "https://mcp.makierp.com/"
+    }
+  }
+}
